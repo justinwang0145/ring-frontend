@@ -1,14 +1,14 @@
-import logo from "./logo.svg";
-import "./App.css";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Home from "./containers/home";
+import Verification from "./containers/verification";
 
 function App() {
   return (
     <BrowserRouter>
-      <div>
-        <Route exact path="/" component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/contact" component={Contact} />
-      </div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/verification" element={<Verification />} />
+      </Routes>
     </BrowserRouter>
   );
 }
