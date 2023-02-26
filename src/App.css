@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: "Manrope-Bold";
+  src: local("Manrope-Bold"),
+    url("./common/fonts/Manrope-Bold.ttf") format("truetype");
+}

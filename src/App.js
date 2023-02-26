@@ -2,6 +2,8 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./containers/home";
 import Verification from "./containers/verification";
 
+import "./common/fonts/Manrope-Bold.ttf";
+
 function App() {
   return (
     <BrowserRouter>

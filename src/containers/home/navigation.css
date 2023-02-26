@@ -1,0 +1,40 @@
+.navbar {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-bewteen;
+}
+
+.navbar-collapse {
+  margin: auto;
+}
+
+.mx-auto {
+  text-align: center;
+}
+.nav-link {
+  color: #333333;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}
+
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 24px;
+  }
+
+  .navbar-collapse {
+    text-align: center;
+  }
+
+  .nav-link {
+    margin-right: 0;
+    margin-bottom: 10px;
+    display: block;
+  }
+}

@@ -1,0 +1,15 @@
+.section-header {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #f4fce3;
+  text-align: center;
+}
+
+.ver-title {
+  font-size: 1.8rem;
+  font-family: "Manrope", sans-serif;
+  line-height: 120%;
+  font-weight: 800;
+}

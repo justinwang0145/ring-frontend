@@ -1,0 +1,125 @@
+.section-header {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #f4fce3;
+  text-align: center;
+}
+
+.section-partner {
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.ant-btn {
+  background-color: rgb(169, 227, 75);
+  color: #212529;
+}
+
+.test1 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.test2 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.section-explore {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section-assets {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.description-left {
+  padding-top: 30px;
+}
+
+.section-why-sauwallet {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.item-wraper {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.item {
+  width: 25%;
+  margin: 25px;
+}
+
+.section-cta {
+  position: relative;
+  overflow: hidden;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: #f4fce3;
+}
+
+.sub-title-sm {
+  font-size: 1rem;
+  font-family: "Manrope", sans-serif;
+  line-height: 120%;
+  font-weight: 800;
+}
+
+.sub-title {
+  font-size: 3rem;
+  font-family: "Manrope", sans-serif;
+  line-height: 120%;
+  font-weight: 800;
+}
+
+.description {
+  text-align: center;
+}
+
+.cta-content-header-wrapper {
+  display: -ms-grid;
+  display: grid;
+  justify-items: center;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 24px;
+  -ms-grid-columns: 1fr;
+  grid-template-columns: 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+  text-align: center;
+}
+
+.cta-button {
+  padding: 1.125rem 1.75rem;
+  font-size: 1rem;
+  display: flex;
+  max-height: 3.5rem;
+  -webkit-box-align: center;
+  align-items: center;
+  border-radius: 70px;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.cta-button-wraper {
+  margin: auto;
+  width: 50%;
+}
