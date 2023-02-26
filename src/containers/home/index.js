@@ -111,15 +111,15 @@ function Home() {
           <div
             style={{ width: "50%", paddingRight: "30px", paddingLeft: "10px" }}
           >
-            <div className="sub-title">
-              Serious commitment with your love on blockchain
-            </div>
+            <div className="sub-title">Love in the age of crypto</div>
             <div className="description-left">
-              Do you also think a diamond ring is too impractical, expensive,
-              inhumane and hurt the environment? Try our virtual love lock ring
-              that locks your commitment on the blockchain! With the ring, you
-              can also record celebratory and meaningful events with your
-              partner on chain. 100% honesty and commitment.
+              One can only purchase Love Lock Ring once if owner already
+              connected with another ring. The use of Algorand, the underlying
+              blockchain technology ensures that the ownership and history of
+              such NFT ring are transparent and easily verifiable. This means
+              that the authenticity of the NFT can be easily validated, making
+              both parties in a relationship impossible to lie about their
+              relationship status.
             </div>
           </div>
           <div style={{ width: "50%" }}>
